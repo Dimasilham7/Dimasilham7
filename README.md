@@ -2,7 +2,7 @@
 
 
 I'm very passionate on Data science or processing Data and I'm Very starving on acknowledging
-Here are some ideas to get you started:
+and this is what I'm doing for now:
 
 - 🔭 I’m currently working on freelance project
 - 🌱 I’m currently learning Data science, python and java script
